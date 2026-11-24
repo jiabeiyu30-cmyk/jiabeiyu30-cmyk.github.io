@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T17:31:45+08:00",
+  "coverage": {
+    "start": "2026-11-23T19:00:00+08:00",
+    "end": "2026-11-24T17:31:45+08:00"
+  },
+  "revision": 1,
+  "items": [
+    {
+      "id": "trump-nvidia-huang",
+      "title": "特朗普称说服英伟达让黄仁勋复任 引争议",
+      "brief": "特朗普称自己“说服”英伟达让黄仁勋复任 CEO，言论引发反弹；评述：把人事当交易来讲，短期吸睛，长期伤的是公司治理的可预期性。",
+      "summary": "据 BBC 报道，美国总统特朗普称自己“说服”英伟达让黄仁勋重新出任首席执行官，相关表态在业界与舆论场引发反弹。报道指出，这番说法把企业人事与政治影响力混在一起，也让外界重新讨论科技公司与政府之间的关系。",
+      "editorial": {
+        "priority": "lead",
+        "selectionReason": "当日最受关注的政商交叉事件。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news",
+          "publishedAt": "2026-11-24T08:00:00+08:00"
+        }
+      ],
+      "category": "全球·政治与AI"
+    },
+    {
+      "id": "nato-space-defence",
+      "title": "北约秘书长称将防御太空威胁",
+      "brief": "在有关俄罗斯核动力卫星的报道后，北约表示将加强太空防御；评述：太空正从“支援域”变成“作战域”，规则却还是空的。",
+      "summary": "据 BBC 报道，在有关俄罗斯核动力卫星的报道出现后，北约秘书长表示将防御来自太空的威胁。报道称，北约正把太空安全纳入整体防御议程，但相关国际规则仍不完善。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "涉及全球安全与战场外溢的重要进展。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news",
+          "publishedAt": "2026-11-24T09:00:00+08:00"
+        }
+      ],
+      "category": "全球·安全"
+    },
+    {
+      "id": "ukraine-naval-drones-libya",
+      "title": "乌克兰称用海上无人机打击两艘俄舰",
+      "brief": "乌方确认在利比亚附近以海上无人机袭击两艘俄舰；评述：战场外溢到地中海，说明“前线”这个概念正在失效。",
+      "summary": "据《卫报》报道，乌克兰方面确认使用海上无人机在利比亚附近海域打击了两艘俄罗斯舰船。此前一艘俄舰在班加西港内爆炸后沉没，外界怀疑与无人机袭击有关。乌方此次表态把行动范围明确指向地中海方向。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "涉及全球安全与战场外溢的重要进展。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/24/ukraine-naval-drones-russian-ships-libya",
+          "publishedAt": "2026-11-24T10:00:00+08:00"
+        }
+      ],
+      "category": "全球·冲突"
+    },
+    {
+      "id": "museum-of-london-new",
+      "title": "伦敦博物馆新馆开馆 造价4.37亿英镑",
+      "brief": "耗资 4.37 亿英镑的伦敦博物馆新馆开放，评论称“值得一看”；评述：公共文化设施的价值，很难只用票价和客流衡量。",
+      "summary": "《卫报》文化版评论称，耗资 4.37 亿英镑的伦敦博物馆新馆正式开放，展陈与建筑本身都令人惊叹。评论同时讨论了这类大型公共文化项目的成本与公共价值之间的张力。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与社会类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Take me to the fatberg! The £437m new Museum of London is an astonishing sight",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/culture/2026/nov/24/museum-of-london-new-building-review",
+          "publishedAt": "2026-11-24T09:00:00+08:00"
+        }
+      ],
+      "category": "人文·城市"
+    },
+    {
+      "id": "childrens-booker-shortlist",
+      "title": "首届儿童布克奖公布八强短名单",
+      "brief": "首届儿童布克奖公布“伟大八强”短名单；评述：给孩子设的奖，真正被检验的是成人如何判断“好”。",
+      "summary": "据《卫报》报道，首届儿童布克奖公布短名单，共有八部作品入选，被称为“伟大八强”。该奖项面向儿童文学，评审标准与成人文学奖的差异成为讨论焦点。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与社会类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "First Children's Booker prize reveals 'Great Eight' shortlist",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/books/2026/nov/24/childrens-booker-prize-great-eight-shortlist",
+          "publishedAt": "2026-11-24T09:30:00+08:00"
+        }
+      ],
+      "category": "人文·教育"
+    },
+    {
+      "id": "xinjiang-snow-holiday",
+      "title": "新疆“雪假”开启 今年有何新做法",
+      "brief": "雪季开启，新疆“雪假”安排引发关注；评述：把地方气候资源变成教育制度安排，是种有意思的“因地制宜”。",
+      "summary": "据中新网报道，随着雪季开启，新疆今年的“雪假”安排受到关注。报道介绍了今年“雪假”在时间安排与配套活动上的新做法，以及其对当地冰雪经济与家庭出行的影响。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与社会类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "雪季开启，今年新疆“雪假”有何创新？",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/sh/2026/11-24/10737000.shtml",
+          "publishedAt": "2026-11-24T11:00:00+08:00"
+        }
+      ],
+      "category": "社会·教育"
+    },
+    {
+      "id": "jinzhong-yuci-plan",
+      "title": "山西晋中榆次锚定“十五五”城市群布局",
+      "brief": "榆次提出“融入城市群、做强主城区”；评述：中小城市谈区域一体化，关键在产业与通勤能不能真的连起来。",
+      "summary": "据中新网报道，山西晋中榆次区在“十五五”规划中提出“融入城市群、做强主城区”的方向，围绕产业协同、基础设施与公共服务展开布局。相关表述反映了中小城市在区域一体化中的定位选择。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与社会类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "山西晋中榆次“十五五”锚定“融入城市群、做强主城区”",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/df/2026/11-24/10737001.shtml",
+          "publishedAt": "2026-11-24T11:30:00+08:00"
+        }
+      ],
+      "category": "政治·地方"
+    }
+  ],
+  "layout": {
+    "rows": [
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "trump-nvidia-huang",
+            "resolvedPriority": "lead",
+            "size": "large",
+            "span": 4,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "nato-space-defence",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "ukraine-naval-drones-libya",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "museum-of-london-new",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "childrens-booker-shortlist",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "xinjiang-snow-holiday",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "jinzhong-yuci-plan",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          }
+        ]
+      }
+    ]
+  }
+}

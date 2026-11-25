@@ -1,39 +1,39 @@
 {
   "schemaVersion": 1,
-  "asOfDate": "2026-11-24",
+  "asOfDate": "2026-11-25",
   "primaryPublicationId": "daily-news",
   "publications": [
     {
       "id": "daily-news",
       "name": "心理学与社会热点",
-      "latestDate": "2026-11-24",
+      "latestDate": "2026-11-25",
       "sourceRevision": 1,
       "status": "current",
       "pageUrl": "/p/daily-news/",
       "highlights": [
         {
-          "itemId": "trump-nvidia-huang",
-          "category": "全球·政治与AI",
-          "title": "特朗普称说服英伟达让黄仁勋复任 引争议",
-          "brief": "特朗普称自己“说服”英伟达让黄仁勋复任 CEO，言论引发反弹；评述：把人事当交易来讲，短期吸睛，长期伤的是公司治理的可预期性。",
-          "summary": "据 BBC 报道，美国总统特朗普称自己“说服”英伟达让黄仁勋重新出任首席执行官，相关表态在业界与舆论场引发反弹。报道指出，这番说法把企业人事与政治影响力混在一起，也让外界重新讨论科技公司与政府之间的关系。",
-          "itemUrl": "/p/daily-news/?date=2026-11-24#trump-nvidia-huang"
+          "itemId": "ru-casualties-500k",
+          "category": "全球·战争",
+          "title": "俄方数据：乌克兰战场死亡近50万人",
+          "brief": "俄方自身统计显示对乌战争死亡近 50 万；评述：连官方数字都到这个量级，说明这场战争的成本早已超出任何“特别行动”的叙事。",
+          "summary": "据 BBC 报道，俄罗斯方面自己的统计数据显示，对乌克兰战争中的死亡人数接近 50 万。报道称这一数字来自俄方数据，与外界此前的估计方向一致但规模更明确。",
+          "itemUrl": "/p/daily-news/?date=2026-11-25#ru-casualties-500k"
         },
         {
-          "itemId": "nato-space-defence",
-          "category": "全球·安全",
-          "title": "北约秘书长称将防御太空威胁",
-          "brief": "在有关俄罗斯核动力卫星的报道后，北约表示将加强太空防御；评述：太空正从“支援域”变成“作战域”，规则却还是空的。",
-          "summary": "据 BBC 报道，在有关俄罗斯核动力卫星的报道出现后，北约秘书长表示将防御来自太空的威胁。报道称，北约正把太空安全纳入整体防御议程，但相关国际规则仍不完善。",
-          "itemUrl": "/p/daily-news/?date=2026-11-24#nato-space-defence"
+          "itemId": "aeon-mental-illness-universal",
+          "category": "人文·心理学",
+          "title": "精神疾病是普世的吗",
+          "brief": "Aeon 长文追问精神疾病的跨文化普遍性；评述：诊断手册把“痛苦”翻译成条目，但不同文化里“什么叫不正常”并不一样。",
+          "summary": "Aeon 刊文讨论精神疾病是否具有跨文化的普遍性：同一套诊断标准在不同社会中是否测量到同一种东西，文化与语境如何塑造症状的表达与识别。文章把问题从“有没有病”推进到“谁有权力定义病”。",
+          "itemUrl": "/p/daily-news/?date=2026-11-25#aeon-mental-illness-universal"
         },
         {
-          "itemId": "ukraine-naval-drones-libya",
-          "category": "全球·冲突",
-          "title": "乌克兰称用海上无人机打击两艘俄舰",
-          "brief": "乌方确认在利比亚附近以海上无人机袭击两艘俄舰；评述：战场外溢到地中海，说明“前线”这个概念正在失效。",
-          "summary": "据《卫报》报道，乌克兰方面确认使用海上无人机在利比亚附近海域打击了两艘俄罗斯舰船。此前一艘俄舰在班加西港内爆炸后沉没，外界怀疑与无人机袭击有关。乌方此次表态把行动范围明确指向地中海方向。",
-          "itemUrl": "/p/daily-news/?date=2026-11-24#ukraine-naval-drones-libya"
+          "itemId": "huawei-verdict",
+          "category": "全球·科技与法律",
+          "title": "华为窃取商业机密罪名成立 有组织犯罪不成立",
+          "brief": "美陪审团认定华为窃取商业机密成立，但有组织犯罪指控不成立；评述：技术竞争的战场正在从实验室移到法庭。",
+          "summary": "据 BBC 报道，美国一个陪审团认定华为窃取美国商业机密罪名成立，但针对其“有组织犯罪”的指控不成立。该案被视为中美科技竞争在司法层面的延伸。",
+          "itemUrl": "/p/daily-news/?date=2026-11-25#huawei-verdict"
         }
       ]
     }

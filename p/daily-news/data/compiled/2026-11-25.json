@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T17:02:32+08:00",
+  "coverage": {
+    "start": "2026-11-24T19:00:00+08:00",
+    "end": "2026-11-25T17:02:32+08:00"
+  },
+  "revision": 1,
+  "items": [
+    {
+      "id": "ru-casualties-500k",
+      "title": "俄方数据：乌克兰战场死亡近50万人",
+      "brief": "俄方自身统计显示对乌战争死亡近 50 万；评述：连官方数字都到这个量级，说明这场战争的成本早已超出任何“特别行动”的叙事。",
+      "summary": "据 BBC 报道，俄罗斯方面自己的统计数据显示，对乌克兰战争中的死亡人数接近 50 万。报道称这一数字来自俄方数据，与外界此前的估计方向一致但规模更明确。",
+      "editorial": {
+        "priority": "lead",
+        "selectionReason": "当日全球关注度最高的战争代价数据。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news",
+          "publishedAt": "2026-11-25T09:00:00+08:00"
+        }
+      ],
+      "category": "全球·战争"
+    },
+    {
+      "id": "aeon-mental-illness-universal",
+      "title": "精神疾病是普世的吗",
+      "brief": "Aeon 长文追问精神疾病的跨文化普遍性；评述：诊断手册把“痛苦”翻译成条目，但不同文化里“什么叫不正常”并不一样。",
+      "summary": "Aeon 刊文讨论精神疾病是否具有跨文化的普遍性：同一套诊断标准在不同社会中是否测量到同一种东西，文化与语境如何塑造症状的表达与识别。文章把问题从“有没有病”推进到“谁有权力定义病”。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "涉及心理学基础议题与科技—法律议题，兼具人文与公共价值。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Is mental illness universal?",
+          "name": "Aeon",
+          "url": "https://aeon.co/essays/is-mental-illness-universal",
+          "publishedAt": "2026-11-25T10:00:00+08:00"
+        }
+      ],
+      "category": "人文·心理学"
+    },
+    {
+      "id": "huawei-verdict",
+      "title": "华为窃取商业机密罪名成立 有组织犯罪不成立",
+      "brief": "美陪审团认定华为窃取商业机密成立，但有组织犯罪指控不成立；评述：技术竞争的战场正在从实验室移到法庭。",
+      "summary": "据 BBC 报道，美国一个陪审团认定华为窃取美国商业机密罪名成立，但针对其“有组织犯罪”的指控不成立。该案被视为中美科技竞争在司法层面的延伸。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "涉及心理学基础议题与科技—法律议题，兼具人文与公共价值。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+          "name": "BBC News",
+          "url": "https://www.bbc.com/news",
+          "publishedAt": "2026-11-25T08:30:00+08:00"
+        }
+      ],
+      "category": "全球·科技与法律"
+    },
+    {
+      "id": "mali-russian-losses",
+      "title": "泄密数据：马里军政府背后逾300名俄人员死亡",
+      "brief": "泄露数据显示逾 300 名俄方人员在马里死亡；评述：代理人冲突的账单，往往由不具名的“顾问”来付。",
+      "summary": "据《卫报》报道，泄露的数据显示，在马里军政府背后行动的俄方人员中已有超过 300 人死亡。报道称这些数据揭示了俄方在非洲萨赫勒地区介入的规模与代价。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "与社会、文化或经济相关，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "More than 300 Russians killed as Moscow props up Mali's junta, leaked data reveals",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/mali-russia-junta-leaked-data",
+          "publishedAt": "2026-11-25T09:30:00+08:00"
+        }
+      ],
+      "category": "全球·冲突"
+    },
+    {
+      "id": "colombia-hostages-freed",
+      "title": "哥伦比亚超市人质事件：所有人质获释",
+      "brief": "安全部队突入超市，所有人质获释；评述：旅游城市的“安全叙事”一旦破口，恢复信任比抓人更难。",
+      "summary": "据《卫报》报道，哥伦比亚安全部队突入一家被武装人员控制的超市，所有人质已获释。总统抵达现场。事件发生在该国一处旅游城市，引发对公共安全的关注。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "与社会、文化或经济相关，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "All hostages freed after Colombian security forces storm supermarket, says president",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/25/colombia-supermarket-hostages-freed",
+          "publishedAt": "2026-11-25T10:30:00+08:00"
+        }
+      ],
+      "category": "全球·社会"
+    },
+    {
+      "id": "blade-runner-2099-review",
+      "title": "《银翼杀手2099》剧评：每一场都让人不安",
+      "brief": "剧评称这部剧版每一场戏都充满令人不安的质感；评述：赛博朋克的真正主题从来不是技术，而是“谁算人”。",
+      "summary": "《卫报》刊发《银翼杀手 2099》剧评，评论认为这部剧版在视觉与氛围上高度紧张，每一场戏都带着令人不安的质感，并讨论了它在“何为人”这一母题上的延续与偏移。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "与社会、文化或经济相关，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "Blade Runner 2099 review – every scene of this TV version is packed with terrifying detail",
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/blade-runner-2099-review",
+          "publishedAt": "2026-11-25T09:00:00+08:00"
+        }
+      ],
+      "category": "人文·影视"
+    },
+    {
+      "id": "belt-road-15th-plan",
+      "title": "“十五五”期间持续深化“一带一路”经贸合作",
+      "brief": "有关部门表示“十五五”将深化“一带一路”经贸合作；评述：从“修路建港”到“规则与标准”，合作的重心正在换挡。",
+      "summary": "据中新网报道，“十五五”时期我国将持续深化“一带一路”经贸合作，相关内容涉及贸易投资、互联互通与规则对接。报道未披露具体项目清单。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "与社会、文化或经济相关，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "originalTitle": "“十五五”时期我国将持续深化“一带一路”经贸合作",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-25/10738000.shtml",
+          "publishedAt": "2026-11-25T11:00:00+08:00"
+        }
+      ],
+      "category": "政治·经济"
+    }
+  ],
+  "layout": {
+    "rows": [
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "ru-casualties-500k",
+            "resolvedPriority": "lead",
+            "size": "large",
+            "span": 4,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "aeon-mental-illness-universal",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "huawei-verdict",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "mali-russian-losses",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "colombia-hostages-freed",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "blade-runner-2099-review",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "belt-road-15th-plan",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          }
+        ]
+      }
+    ]
+  }
+}
